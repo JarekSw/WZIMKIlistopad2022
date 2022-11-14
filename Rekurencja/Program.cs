@@ -14,7 +14,7 @@ namespace Rekurencja
 
         static void Main(string[] args)
         {
-            Console.WriteLine(RekurencjaSilnia(3));
+            Console.WriteLine(RekurencjaSilnia(4));
         }
     }
 }
