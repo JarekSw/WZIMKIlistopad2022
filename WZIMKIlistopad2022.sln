@@ -7,7 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rekurencja", "Rekurencja\Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pliki", "Pliki\Pliki.csproj", "{5B213485-0A31-4EC8-8F1F-7A3E9CF5C53F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If", "If\If.csproj", "{4027B4E4-44F0-4EEE-A59F-78B340AAE99B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If", "If\If.csproj", "{4027B4E4-44F0-4EEE-A59F-78B340AAE99B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablice", "Tablice\Tablice.csproj", "{2FD85607-5C98-479C-A0CA-644DDBCED6B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funkcje", "Funkcje\Funkcje.csproj", "{69F20BA8-6808-49C3-B382-BDDB89BE6262}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pentle", "Pentle\Pentle.csproj", "{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{4027B4E4-44F0-4EEE-A59F-78B340AAE99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4027B4E4-44F0-4EEE-A59F-78B340AAE99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4027B4E4-44F0-4EEE-A59F-78B340AAE99B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD85607-5C98-479C-A0CA-644DDBCED6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD85607-5C98-479C-A0CA-644DDBCED6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD85607-5C98-479C-A0CA-644DDBCED6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD85607-5C98-479C-A0CA-644DDBCED6B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F20BA8-6808-49C3-B382-BDDB89BE6262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F20BA8-6808-49C3-B382-BDDB89BE6262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F20BA8-6808-49C3-B382-BDDB89BE6262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F20BA8-6808-49C3-B382-BDDB89BE6262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
