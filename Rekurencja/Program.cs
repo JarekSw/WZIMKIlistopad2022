@@ -4,17 +4,19 @@ namespace Rekurencja
 {
     internal class Program
     {
-        static int RekurencjaSilnia(int liczba)
-        {
-            if(liczba==1)
-                return 1;
-            else
-                return liczba*RekurencjaSilnia(liczba-1);
-        }
-
         static void Main(string[] args)
         {
-            Console.WriteLine(RekurencjaSilnia(4));
+            Console.WriteLine("Bardzo trudny problem\n");
+            for (uint i = 1; i < 10; i++)
+            {
+                Console.WriteLine(i + ": " + BardzoTrudyProblem.C(i));
+            }
+
+            Console.WriteLine("\n\n\nCiąg Fibbonaciego\n");
+            for (uint i = 0; i <= 35; i++)
+            {
+                Console.WriteLine(i + ": " + CiagFibbonaciego.T(i));
+            }
         }
     }
 }

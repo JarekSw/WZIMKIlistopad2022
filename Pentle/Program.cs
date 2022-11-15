@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Pentle
+namespace Petle
 {
     internal class Program
     {

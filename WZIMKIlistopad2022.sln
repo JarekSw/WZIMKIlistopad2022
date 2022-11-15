@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pliki", "Pliki\Pliki.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If", "If\If.csproj", "{4027B4E4-44F0-4EEE-A59F-78B340AAE99B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tablice", "Tablice\Tablice.csproj", "{2FD85607-5C98-479C-A0CA-644DDBCED6B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tablice", "Tablice\Tablice.csproj", "{2FD85607-5C98-479C-A0CA-644DDBCED6B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funkcje", "Funkcje\Funkcje.csproj", "{69F20BA8-6808-49C3-B382-BDDB89BE6262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funkcje", "Funkcje\Funkcje.csproj", "{69F20BA8-6808-49C3-B382-BDDB89BE6262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pentle", "Pentle\Pentle.csproj", "{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petle", "Pentle\Petle.csproj", "{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
