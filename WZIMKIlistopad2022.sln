@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funkcje", "Funkcje\Funkcje.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petle", "Pentle\Petle.csproj", "{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wyjatki", "Wyjatki\Wyjatki.csproj", "{9193049E-0298-420C-AFDA-A427081E7DD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECDFAD4D-B772-4DFC-BE72-4B44559DEECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9193049E-0298-420C-AFDA-A427081E7DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9193049E-0298-420C-AFDA-A427081E7DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9193049E-0298-420C-AFDA-A427081E7DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9193049E-0298-420C-AFDA-A427081E7DD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
